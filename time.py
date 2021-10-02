@@ -8,4 +8,4 @@ def timeConversion(s):
 		return s
 
 
-timeConversion("07:05:45PM")
+timeConversion("09:05:45PM")
